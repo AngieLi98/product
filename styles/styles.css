@@ -53,8 +53,8 @@
  .descripcion h1 {
     font-size: 16px;
     font-weight: 500;
+   letter-spacing: 0.25em;
     color: var(--text-color);
-    /*margin-bottom: 20px; */
  }
 
  .descripcion h2 {
@@ -62,7 +62,6 @@
     font-size: 38px;
     line-height: 1;
     color: var(--text-title-color);
-    /* margin-bottom: 24px; */
  }
 
  .descripcion p {
@@ -95,6 +94,10 @@
     border: none;
     cursor: pointer;
     transition: background-color 0.3s ease;
+ }
+
+ .descripcion button img {
+   margin-right: 10px;
  }
 
  .descripcion button:hover {
