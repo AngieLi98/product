@@ -55,7 +55,7 @@
  }
 
  .descripcion h1 {
-    font-size: 1rem;
+    font-size: 0.8rem;
     font-weight: 500;
     letter-spacing: 0.25em;
     color: var(--text-color);
@@ -63,7 +63,7 @@
 
  .descripcion h2 {
     font-family: "Fraunces", serif;
-    font-size: 2.4rem;
+    font-size: 2rem;
     line-height: 1;
     color: var(--text-title-color);
  }
